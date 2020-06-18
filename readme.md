@@ -10,3 +10,6 @@ yarn serve
 ```
 yarn dev
 ```
+
+TODO: 
+- import package instead of relative to local fs
