@@ -1,0 +1,9 @@
+**/.vscode/*
+**/node_modules/*
+**/temp/*
+*.log
+*.local
+*.lock
+*.zip
+*.tgz
+*.tar.gz

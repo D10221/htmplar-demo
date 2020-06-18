@@ -1,0 +1,15 @@
+{
+  "name": "@local/htmplar-demo",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mr D.",
+  "license": "MIT",
+  "dependencies": {
+    "htmplar": "*"
+  },
+  "scripts": {
+    "serve": "htmplar serve",
+    "dev": "htmplar dev"
+  }
+}
